@@ -8,9 +8,8 @@ A small script that allows you to do mail dispatch through gmail reading from an
 
 ## Required Python Packages
 To use this software, use pip to install the following packages into your Python environment:
-
-*xlrd
-*xlwt
+* xlrd
+* xlwt
 
 NOTE: Go to this [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps) and select Turn On to allow your gmail use unregistered app
 
